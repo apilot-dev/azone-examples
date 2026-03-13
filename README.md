@@ -24,13 +24,16 @@ https://rapidapi.com/apilot-apilot-default/api/azone-real-time-amazon-data-api
 ### Python
 
 python/product_details.py
+
 https://github.com/apilot-dev/azone-examples/blob/main/python/product_details.py
 
 ### NodeJS
 
 node/product_details.js
+
 https://github.com/apilot-dev/azone-examples/blob/main/node/product_details.js
 
 ### Curl
 curl/product_details.sh
+
 https://github.com/apilot-dev/azone-examples/blob/main/curl/product_details.sh
