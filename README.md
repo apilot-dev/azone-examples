@@ -42,16 +42,18 @@ https://github.com/apilot-dev/azone-examples/blob/main/curl/product_details.sh
 ## How to run the examples
 
 Clone the repository:
-
+```bash
 git clone https://github.com/apilot-dev/azone-examples.git
 cd azone-examples
 
 ### Python example
+```bash
 cd python
 pip install -r requirements.txt
 python product_details.py
 
 ### NodeJS example
+```bash
 cd node
 npm install
 node product_details.js
