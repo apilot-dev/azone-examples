@@ -19,3 +19,15 @@ https://www.apilot.net/azone-docs/
 
 https://rapidapi.com/apilot-apilot-default/api/azone-real-time-amazon-data-api
 
+## Examples
+
+### Python
+
+python/product_details.py
+
+### NodeJS
+
+node/product_details.js
+
+### Curl
+curl/product_details.sh
