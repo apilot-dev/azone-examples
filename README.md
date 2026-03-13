@@ -1,2 +1,21 @@
-# azone-examples
-Code examples for using the Azone Amazon Data API on RapidAPI. Retrieve Amazon product details, offers, reviews, sellers, best sellers, deals, and Haul search data programmatically for building price trackers, product research tools, and e-commerce analytics applications.
+# Azone API Examples
+
+Code examples showing how to use the Azone Amazon Data API.
+
+## Features
+
+- product details
+- product reviews
+- seller data
+- best sellers
+- deals
+- Amazon Haul search
+
+## Documentation
+
+https://www.apilot.net/azone-docs/
+
+## RapidAPI
+
+https://rapidapi.com/apilot-apilot-default/api/azone-real-time-amazon-data-api
+
