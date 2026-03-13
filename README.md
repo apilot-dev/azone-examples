@@ -2,6 +2,10 @@
 
 Code examples showing how to use the Azone Amazon Data API.
 
+Get API access on RapidAPI:
+
+https://rapidapi.com/apilot-apilot-default/api/azone-real-time-amazon-data-api
+
 ## Features
 
 - product details
