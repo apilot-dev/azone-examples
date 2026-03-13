@@ -42,6 +42,12 @@ curl/product_details.sh
 
 https://github.com/apilot-dev/azone-examples/blob/main/curl/product_details.sh
 
+### Full API example
+
+python/all_endpoints_example.py
+
+https://github.com/apilot-dev/azone-examples/blob/main/python/all_endpoints_example.py
+
 
 ## How to run the examples
 
